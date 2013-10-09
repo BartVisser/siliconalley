@@ -13,7 +13,7 @@ I want everyone with a skill and/or idea to be able to connect with others with 
 
 Silicon Alley is in the idea fase. I, Bart Visser, am learning python the hard way and I'll do my best to work it out so that it becomes more real and "tangible".
 
-I'm an absolute beginner here, so any help is welcome. I registered the domain name: siliconalley.nl
+I'm an absolute beginner here, so any help is welcome. I registered the domain name: www.siliconalley.nl
 
 My email is: bart@siliconalley.nl
 
