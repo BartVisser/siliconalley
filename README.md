@@ -20,8 +20,11 @@ My email is: bart@siliconalley.nl
 I need help with:
 
 1: Developing the idea
+
 2: Developing the user experience
+
 3: Making it work
+
 4: Maintenance
 
 Thank you,
